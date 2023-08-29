@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/AdamAnsari/proshop#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^7.4.5"
   },
   "devDependencies": {
     "concurrently": "^8.2.1",
